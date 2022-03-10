@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @burakcetn, Currently I am learning phase of my dev. journey. I am going to graduate my major at 2022 JUN İstanbul Technical University. Decide to be a part ofSoftware community.    
+- 👋 Hi, I’m @burakcetn, Currently I am learning phase of my dev. journey. I am going to graduate my major at 2022 JUN İstanbul Technical University. Decide to be a part of Software community.    
 - 👀 I’m interested in GameDev, Back-end Dev also little bit front-end Dev
 - 🌱 I’m currently learning basics of every programming languages and technologies to decide my major.
             
